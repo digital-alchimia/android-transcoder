@@ -12,10 +12,6 @@ buildscript {
     }
 }
 
-plugins {
-    id "base"
-}
-
 allprojects {
     repositories {
         jcenter()
